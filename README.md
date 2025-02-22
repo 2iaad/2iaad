@@ -1,4 +1,8 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Ziyad I do software engineering!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://2iaad.github.io"><img width="80%" alt="Hello, I'm Ziyad I do software engineering!" src="./assets/Welcome-2-22-2025.png" /></a></p>
+
+<p align="center"> <img width="50%" src="./assets/its-ziyad-2-22-2025.png" /></a></p>
+
+
 <h3 align="center">A passionate software developer from Morocco</h3>
 
 for freelance work? do reach, [mail](mailto:abhishknads.work@gmail.com) 
