@@ -2,19 +2,51 @@
 
 <p align="center"> <img width="50%" src="./assets/its-ziyad-2-22-2025.png" /></a></p>
 
-
-<h3 align="center">A passionate software developer from Morocco</h3>
-
-for freelance work? do reach, [mail](mailto:abhishknads.work@gmail.com) 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ziyadderfoufi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziyadderfoufi" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/2iaad/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Quintessential%20Code&center=true&width=440&height=45&color=00E902FB&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=2iaad&show_icons=true&theme=gotham" alt="2iaad" />
+
+
+
+
+
+
+
+
+
+
+## Frontend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+## Backend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+## Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+
+<br/>
+<p align="center">
+  <a href="https://github.com/2iaad/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2iaad&hide=C&size_weight=1&card_width=400" />
+  </a>
+</p>
+
+<br/>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2iaad&theme=github-dark-dimmed&custom_title=2iaad%20Activity%20Graph&hide_border=true)](https://github.com/2iaad/github-readme-activity-graph)
