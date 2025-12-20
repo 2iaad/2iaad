@@ -1,10 +1,19 @@
 <!-- <p align="center"><a href="https://2iaad.github.io"><img width="80%" alt="Hello, I'm Ziyad I do software engineering!" src="./assets/Welcome-2-22-2025.png" /></a></p> -->
 
-<p align="center"> <img width="50%" src="./assets/its-ziyad-2-22-2025.png" /></a></p>
+
+<!-- source of this Logo i created: https://cooltext.com/ -->
+<br/>
+<p align="center">
+    <a href="https://cooltext.com">
+        <img src="https://images.cooltext.com/5747990.png" width="570" height="135" alt="its ziyad" />
+    </a>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/2iaad/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=42%20Network%20Graduate;Full-stack%20Developer;C%2FC%2B%2B%20and%20JavaScript%20Enthusiast;Always%20Learning%20and%20Building&font=Quintessential%20Code&center=true&width=440&color=00E902FD" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=42%20Network%20Graduate;Full-stack%20Developer;C%2FC%2B%2B%20and%20JavaScript%20Enthusiast;Always%20Learning%20and%20Building&font=Quintessential%20Code&center=true&width=440&color=DC143C
+    " /></a>
 </p>
 
 
