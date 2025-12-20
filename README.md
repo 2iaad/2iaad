@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/2iaad/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=42%20Network%20Graduate;Full-stack%20Developer%20in%20Training;C%2FC%2B%2B%20and%20JavaScript%20Enthusiast;Always%20Learning%20and%20Building&font=Quintessential%20Code&center=true&width=440&color=00E902FD" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=42%20Network%20Graduate;Full-stack%20Developer;C%2FC%2B%2B%20and%20JavaScript%20Enthusiast;Always%20Learning%20and%20Building&font=Quintessential%20Code&center=true&width=440&color=00E902FD" /></a>
 </p>
 
 
