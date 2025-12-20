@@ -1,11 +1,12 @@
-<p align="center"><a href="https://2iaad.github.io"><img width="80%" alt="Hello, I'm Ziyad I do software engineering!" src="./assets/Welcome-2-22-2025.png" /></a></p>
+<!-- <p align="center"><a href="https://2iaad.github.io"><img width="80%" alt="Hello, I'm Ziyad I do software engineering!" src="./assets/Welcome-2-22-2025.png" /></a></p> -->
 
 <p align="center"> <img width="50%" src="./assets/its-ziyad-2-22-2025.png" /></a></p>
 
 <p align="center">
   <a href="https://github.com/2iaad/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Quintessential%20Code&center=true&width=440&height=45&color=00E902FB&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=42%20Network%20Graduate;Full-stack%20Developer%20in%20Training;C%2FC%2B%2B%20and%20JavaScript%20Enthusiast;Always%20Learning%20and%20Building&font=Quintessential%20Code&center=true&width=440&color=00E902FD" /></a>
 </p>
+
 
 
 
@@ -34,7 +35,7 @@
 
 ## Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
