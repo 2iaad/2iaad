@@ -3,8 +3,6 @@
 <!-- source of text the gifs: https://willkessler.github.io/typed-text-gif-maker/ -->
 <!-- source of gif cropper: https://ezgif.com/crop -->
 
-<br/>
-
 <p align="center">
     <a href="https://cooltext.com">
         <img src="https://images.cooltext.com/5747990.png" width="570" height="135" alt="its ziyad" />
