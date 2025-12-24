@@ -3,6 +3,9 @@
 
 <!-- source of this Logo i created: https://cooltext.com/ -->
 <br/>
+
+
+
 <p align="center">
     <a href="https://cooltext.com">
         <img src="https://images.cooltext.com/5747990.png" width="570" height="135" alt="its ziyad" />
@@ -46,6 +49,28 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2iaad&hide=C&size_weight=1&card_width=400" />
   </a>
 </p> -->
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3UwZXc3dXNsZmxtMncwbTg1eXFzMDZ2ZDhuMnU3Mm83cXczb2hmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FSp1Wqx2TPYSA/giphy.gif" alt="Demo GIF" width="652" /> -->
+</p>
+
+
+<p align="center">
+  <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hwYXpnN3lmd2xmczZvYnRldWZ1bHI1ZHBmbzVtbTNqNWFpbmVkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y1nrTCFZEz3gc/giphy.gif" alt="Demo GIF" width="652" /> -->
+</p>
+
+
+<p align="center">
+  <img src="assets/Season3Demon.gif" alt="Demo GIF" width="300" />
+</p>
 
 <p align="center">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" height="40" alt="C" /></a>
