@@ -45,8 +45,14 @@
 
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3UwZXc3dXNsZmxtMncwbTg1eXFzMDZ2ZDhuMnU3Mm83cXczb2hmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FSp1Wqx2TPYSA/giphy.gif" alt="Demo GIF" width="652" />
+  <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3UwZXc3dXNsZmxtMncwbTg1eXFzMDZ2ZDhuMnU3Mm83cXczb2hmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FSp1Wqx2TPYSA/giphy.gif" 
+    alt="Demo GIF" 
+    width="652" 
+    style="border-radius: 8px;"
+  />
 </p>
+
 
 
 <p align="center">
