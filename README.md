@@ -52,6 +52,7 @@
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" /></a>
+  <a href="https://www.notion.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Agno" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" height="40" alt="CSS" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="CSS" /></a>
   <!-- <br/> -->
@@ -60,14 +61,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" height="40" alt="CSS" /></a>
   <!-- <br/> -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /></a>
   <a href="https://desktop.github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" /></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" /></a>
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vim" height="40" alt="Vim" /></a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" /></a>
-  <a href="https://www.notion.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=notion" height="40" alt="Agno" /></a>
 </p>
 
 <!-- [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2iaad&theme=github-dark-dimmed&custom_title=2iaad%20Activity%20Graph&hide_border=true)](https://github.com/2iaad/github-readme-activity-graph) -->
