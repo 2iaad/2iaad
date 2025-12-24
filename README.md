@@ -9,10 +9,12 @@
     <a href="https://cooltext.com">
         <img src="https://images.cooltext.com/5747990.png" width="570" height="135" alt="its ziyad" />
     </a>
-    <img src="assets/typewriter3-ezgif.com-crop.gif" alt="Demo GIF" width="260" />
 </p>
 
-  <!-- </br> -->
+<p align="center">
+  <img src="assets/typewriter3-ezgif.com-crop.gif" alt="Demo GIF" width="260" />
+</p>
+
 <p align="center">
   <!-- <a href="https://github.com/2iaad/readme-typing-svg"> -->
     <!-- <img src="https://readme-typing-svg.demolab.com/?lines=42%20Network%20Graduate;Full-stack%20Developer;C%2FC%2B%2B%20and%20JavaScript%20Enthusiast;Always%20Learning%20and%20Building&font=Quintessential%20Code&center=true&width=440&color=8B0000" /></a> -->
