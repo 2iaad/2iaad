@@ -13,15 +13,20 @@
   <img src="assets/typewriter3-ezgif.com-crop.gif" alt="Demo GIF" width="260" />
 </p>
 
-<p align="center">
-  <!-- <a href="https://github.com/2iaad/readme-typing-svg"> -->
-    <!-- <img src="https://readme-typing-svg.demolab.com/?lines=42%20Network%20Graduate;Full-stack%20Developer;C%2FC%2B%2B%20and%20JavaScript%20Enthusiast;Always%20Learning%20and%20Building&font=Quintessential%20Code&center=true&width=440&color=8B0000" /></a> -->
-</p>
+<!-- <p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpveTVhZnZxYnpudmFtYjNmd3liczNqcWxieWp1emV3dmo2cDN3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KvbIbD1KjCPxEs28jB/giphy.gif" alt="Demo GIF" width="260" />
+</p> -->
 
 
-<!-- 
+<!-- <p align="center">
+  <a href="https://github.com/2iaad/readme-typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com/?lines=42%20Network%20Graduate;Full-stack%20Developer;C%2FC%2B%2B%20and%20JavaScript%20Enthusiast;Always%20Learning%20and%20Building&font=Quintessential%20Code&center=true&width=440&color=8B0000" /></a>
+</p> -->
 
-## Frontend Development
+
+
+
+<!-- ## Frontend Development
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -40,29 +45,35 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-
  -->
 
 
+
+<!-- <p align="center">
+  <img src="./assets/jocker0.gif" 
+  alt="Demo GIF" width="652" style="border-radius:8px;" />
+</p> -->
+
 <p align="center">
-  <!-- <img 
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3UwZXc3dXNsZmxtMncwbTg1eXFzMDZ2ZDhuMnU3Mm83cXczb2hmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FSp1Wqx2TPYSA/giphy.gif" 
-    alt="Demo GIF" 
-    width="652" 
-    style="border-radius: 8px;"
-  /> -->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3UwZXc3dXNsZmxtMncwbTg1eXFzMDZ2ZDhuMnU3Mm83cXczb2hmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FSp1Wqx2TPYSA/giphy.gif" 
+    alt="Demo GIF"  width="652" style="border-radius: 8px;" />
 </p>
 
+<!-- <p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZydDgwYzYzczNmanc4dDBvaDE3cTlkdTQ4MmFiaG5rNTZ0eDNjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13ckOSrJ6dffa0/giphy.gif" 
+    alt="Demo GIF"  width="652" style="border-radius: 8px;" />
+</p> -->
 
 
-<p align="center">
-  <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hwYXpnN3lmd2xmczZvYnRldWZ1bHI1ZHBmbzVtbTNqNWFpbmVkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y1nrTCFZEz3gc/giphy.gif" alt="Demo GIF" width="652" /> -->
-</p>
+
+<!-- <p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hwYXpnN3lmd2xmczZvYnRldWZ1bHI1ZHBmbzVtbTNqNWFpbmVkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y1nrTCFZEz3gc/giphy.gif" alt="Demo GIF" width="652" />
+</p> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/Season3Demon.gif" alt="Demo GIF" width="300" />
-</p>
+</p> -->
 
 
 <p align="center">
