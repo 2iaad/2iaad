@@ -85,4 +85,4 @@
   </a>
 </p> -->
 
-<!-- [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2iaad&theme=github-dark-dimmed&custom_title=2iaad%20Activity%20Graph&hide_border=true)](https://github.com/2iaad/github-readme-activity-graph) -->
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2iaad&theme=github-dark-dimmed&custom_title=2iaad%20Activity%20Graph&hide_border=true)](https://github.com/2iaad/github-readme-activity-graph)
