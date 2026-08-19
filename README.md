@@ -50,7 +50,7 @@
 
 <p align="center">
   <img src="./assets/jocker0.gif" 
-  alt="Demo GIF" width="652" style="border-radius:8px;" />
+  alt="Demo GIF" width="800" style="border-radius:8px;" />
 </p>
 
 <!-- <p align="center">
