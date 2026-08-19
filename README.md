@@ -9,9 +9,9 @@
     </a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/typewriter3-ezgif.com-crop.gif" alt="Demo GIF" width="260" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpveTVhZnZxYnpudmFtYjNmd3liczNqcWxieWp1emV3dmo2cDN3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KvbIbD1KjCPxEs28jB/giphy.gif" alt="Demo GIF" width="260" />
@@ -76,7 +76,7 @@
 </p> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" height="40" alt="C" /></a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /></a>
   <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" /></a>
@@ -96,7 +96,7 @@
   <a href="https://www.notion.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Agno" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" height="40" alt="CSS" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="CSS" /></a>
-</p>
+</p> -->
 
 
 <!-- Api integration items: -->
