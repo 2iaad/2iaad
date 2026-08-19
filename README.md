@@ -49,10 +49,10 @@
 
 
 
-<!-- <p align="center">
+ <p align="center">
   <img src="./assets/jocker0.gif" 
   alt="Demo GIF" width="652" style="border-radius:8px;" />
-</p> -->
+</p>
 
 <!-- <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3UwZXc3dXNsZmxtMncwbTg1eXFzMDZ2ZDhuMnU3Mm83cXczb2hmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FSp1Wqx2TPYSA/giphy.gif" 
@@ -83,6 +83,6 @@
   <a href="https://github.com/2iaad/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2iaad&hide=C&size_weight=1&card_width=400" />
   </a>
-</p> -->
+</p> 
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2iaad&theme=github-dark-dimmed&custom_title=2iaad%20Activity%20Graph&hide_border=true)](https://github.com/2iaad/github-readme-activity-graph)
+<!-- [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2iaad&theme=github-dark-dimmed&custom_title=2iaad%20Activity%20Graph&hide_border=true)](https://github.com/2iaad/github-readme-activity-graph) -->
