@@ -9,9 +9,9 @@
     </a>
 </p> -->
 
-<!-- <p align="center">
+<p align="center">
   <img src="assets/typewriter3-ezgif.com-crop.gif" alt="Demo GIF" width="260" />
-</p> -->
+</p>
 
 <!-- <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpveTVhZnZxYnpudmFtYjNmd3liczNqcWxieWp1emV3dmo2cDN3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KvbIbD1KjCPxEs28jB/giphy.gif" alt="Demo GIF" width="260" />
